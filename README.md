@@ -1,4 +1,4 @@
-# ava-Collections-Framework-Showcase-or-Demo-for-a-Library-Management-System-LMS
+# java-Collections-Framework-Showcase-or-Demo-for-a-Library-Management-System-LMS
 
 ```java
 import java.util.*;
